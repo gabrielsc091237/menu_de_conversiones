@@ -20,9 +20,6 @@ int main(){
     cout<<"la multiplicacion es: " <<multiplicacion<<endl;
 
 
-
-
-
     return 0;
 
 }
